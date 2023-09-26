@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alfariza</h1>
 <h3 align="center">A passionate Fullstack web developer from Indonesia</h3>
-<img width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
+<img  width="550" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfarizarasendria&label=Profile%20views&color=0e75b6&style=flat" alt="alfarizarasendria" /> </p>
 
@@ -14,6 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfarizarasendria&show_icons=true&locale=en&layout=compact" alt="alfarizarasendria" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfarizarasendria&show_icons=true&locale=en" alt="alfarizarasendria" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alfarizarasendria&show_icons=true&locale=en" alt="alfarizarasendria" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfarizarasendria&" alt="alfarizarasendria" /></p>
