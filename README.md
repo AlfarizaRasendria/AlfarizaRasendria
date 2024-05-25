@@ -18,3 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfarizarasendria&show_icons=true&theme=dracula&title_color=00adfd&text_color=ffffff&bg_color=050f2c&locale=en" alt="alfarizarasendria" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfarizarasendria&show_icons=true&theme=dracula&title_color=00adfd&text_color=ffffff&bg_color=050f2c&locale=en" alt="alfarizarasendria" /></p>
