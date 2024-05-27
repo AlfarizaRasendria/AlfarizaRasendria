@@ -1,4 +1,6 @@
-<img width="700" src="https://cdn.pixabay.com/animation/2023/01/24/23/10/23-10-04-56_512.gif">
+<p align="center">
+<img width="600" src="https://cdn.pixabay.com/animation/2023/01/24/23/10/23-10-04-56_512.gif">
+</p>
 
 <h1 align="center">Hi 👋, I'm Alfariza</h1>
 <h3 align="center">A passionate Fullstack web developer and Machine Learning Developer</h3>
