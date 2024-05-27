@@ -1,7 +1,7 @@
+<img width="800" align="left" src="https://cdn.pixabay.com/animation/2023/01/24/23/10/23-10-04-56_512.gif">
+
 <h1 align="center">Hi 👋, I'm Alfariza</h1>
 <h3 align="center">A passionate Fullstack web developer and Machine Learning Developer</h3>
-
-<img width="400" align="left"   src="https://cdn.pixabay.com/animation/2023/01/24/23/10/23-10-04-56_512.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfarizarasendria&label=Profile%20views&color=0e75b6&style=flat" alt="alfarizarasendria" /> </p>
 
