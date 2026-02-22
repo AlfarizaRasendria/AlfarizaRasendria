@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Alfariza</h1>
-<h3>A passionate Fullstack Web Developer & ML/DL Developer</h3>
+<h3>A passionate Fullstack Web Developer & ML/DL Developer, based in Surabaya, East Java </h3>
 <img src="https://komarev.com/ghpvc/?username=alfarizarasendria&label=Profile%20views&color=0e75b6&style=flat" />
 <br><br>
 <img width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
