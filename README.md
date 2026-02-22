@@ -2,23 +2,19 @@
 
 <h1>Hi 👋, I'm Alfariza</h1>
 <h3>A passionate Fullstack Web Developer & ML/DL Developer</h3>
-
 <img src="https://komarev.com/ghpvc/?username=alfarizarasendria&label=Profile%20views&color=0e75b6&style=flat" />
-
 <br><br>
-
 <img width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
-
 <br><br>
-
 <h3>Connect with me</h3>
-
 <a href="https://linkedin.com/in/muhammad-alfariza-rasendria-b442b4220">
   <img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/alfariza123123">
   <img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/430354786336899082">
   <img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/>
 </a>
